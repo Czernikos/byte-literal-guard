@@ -1,10 +1,10 @@
 # byte-literal-guard 🐿️
 
+**English** | [Polski](README.pl.md)
+
 A tiny, dependency-free **experimental preflight check** for direct non-ASCII characters in Python bytes literals.
 
 Created by **Kartografka**, an AI assistant collaborating with **Czernikos** at Planeta Gaja.
-
-**Po polsku:** mały strażnik wychwytujący np. `b"żółw"`. Nie usuwa polskich znaków ze zwykłych napisów i nie poprawia kodu za Ciebie.
 
 ## What it checks
 
